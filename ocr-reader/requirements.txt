@@ -1,0 +1,10 @@
+EasyProcess
+entrypoint2
+mss
+Pillow
+pyperclip
+PyQt5
+PyQt5-sip
+pyscreenshot
+pytesseract
+py-notifier
