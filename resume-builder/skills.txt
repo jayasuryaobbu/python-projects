@@ -1,0 +1,714 @@
+Word - MS Office
+Excel - MS Office
+Powerpoint - MS Office
+Outlook - MS Office
+Access - MS Office
+OneNote - MS Office
+Filters - Email
+folders - Email
+mail merge - Email
+rules - Email
+Docs - Google Drive
+Sheets - Google Drive
+Forms - Google Drive
+Slides - Google Drive
+WordPress - Writing
+SEO - Writing
+Yoast - Writing
+journalism - Writing
+technical writing - Writing
+ghostwriting - Writing
+Excel - Spreadsheets
+Google Sheets - Spreadsheets
+OpenOffice - Spreadsheets
+comparative analyses - Spreadsheets
+pivot tables - Spreadsheets
+macros - Spreadsheets
+link to database - Spreadsheets
+vertical lookups - Spreadsheets
+Facebook - Social Media
+Twitter - Social Media
+LinkedIn - Social Media
+Instagram - Social Media
+posts - Social Media
+giveaways - Social Media
+customer interaction - Social Media
+Voicemail - Phone skills
+forwarding - Phone skills
+hold - Phone skills
+recording - Phone skills
+Trello - Productivity
+Slack - Productivity
+Asana - Productivity
+Todoist - Productivity
+Zapier - Productivity
+Basecamp - Productivity
+Invoicing - Quickbooks
+expense tracking - Quickbooks
+accounts payable - Quickbooks
+reports - Quickbooks
+payroll - Quickbooks
+employee time tracking - Quickbooks
+cash flow management - Quickbooks
+Photoshop - Graphical
+Illustrator - Graphical
+InDesign - Graphical
+Acrobat - Graphical
+Free Hand - Graphical
+Corel Draw - Graphical
+HTML - Web
+CSS - Web
+Javascript - Web
+WordPress - Web
+Content Management Systems (CMS) - Web
+Enterprise Systems
+Payment Processing - Enterprise Systems
+Automated Billing Systems  - Enterprise Systems
+Oracle Netsuite CRM - Enterprise Systems
+Salesforce CRM - Enterprise Systems
+Business Continuity Planning - Enterprise Systems
+SAP's Enterprise Resource Planning - Enterprise Systems
+Oracle's Enterprise Resource Planning - Enterprise Systems
+Basic math - Math
+arithmetic - Math
+statistics - Math
+algebra - Math
+trigonometry - Math
+geometry - Math
+calculus - Math
+Source checking - Research
+intellectual property rights - Research
+networking - Research
+outreach - Research
+advanced Google search - Research
+MS Office - Computer Skills
+Google Drive - Computer Skills
+spreadsheets - Computer Skills
+email - Computer Skills
+PowerPoint - Computer Skills
+databases - Computer Skills
+social media - Computer Skills
+web - Computer Skills
+enterprise systems - Computer Skills
+
+
+C# - Programming Skills
+SQL - Programming Skills
+Java - Programming Skills
+C++ - Programming Skills
+HTML - Programming Skills
+JavaScript - Programming Skills
+XML - Programming Skills
+C - Programming Skills
+Perl - Programming Skills
+Python - Programming Skills
+PHP - Programming Skills
+Objective-C - Programming Skills
+AJAX - Programming Skills
+ASP.NET - Programming Skills
+Ruby - Programming Skills
+
+A# .NET - Programming Skills
+A-0 System - Programming Skills
+A+ - Programming Skills
+A++ - Programming Skills
+ABAP - Programming Skills
+ABC - Programming Skills
+ABC ALGOL - Programming Skills
+ACC - Programming Skills
+Accent - Programming Skills
+Ace DASL - Programming Skills
+Action! - Programming Skills
+ActionScript - Programming Skills
+Actor - Programming Skills
+Ada - Programming Skills
+Adenine - Programming Skills
+Agda - Programming Skills
+Agilent VEE - Programming Skills
+Agora - Programming Skills
+AIMMS - Programming Skills
+Aldor - Programming Skills
+Alef - Programming Skills
+ALF - Programming Skills
+ALGOL 58 - Programming Skills
+ALGOL 60 - Programming Skills
+ALGOL 68 - Programming Skills
+ALGOL W - Programming Skills
+Alice - Programming Skills
+Alma-0 - Programming Skills
+AmbientTalk - Programming Skills
+Amiga E - Programming Skills
+AMOS - Programming Skills
+AMPL - Programming Skills
+AngelScript - Programming Skills
+Apex - Programming Skills
+APL - Programming Skills
+App Inventor - Programming Skills
+Android's visual block language - Programming Skills
+AppleScript - Programming Skills
+APT - Programming Skills
+Arc - Programming Skills
+ARexx - Programming Skills
+Argus - Programming Skills
+Assembly language - Programming Skills
+AutoHotkey - Programming Skills
+AutoIt - Programming Skills
+AutoLISP / Visual LISP - Programming Skills
+Averest - Programming Skills
+AWK - Programming Skills
+Axum - Programming Skills
+B - Programming Skills
+Babbage - Programming Skills
+Ballerina - Programming Skills
+Bash - Programming Skills
+BASIC - Programming Skills
+Batch file - Programming Skills
+bc - Programming Skills
+BCPL - Programming Skills
+BeanShell - Programming Skills
+Bertrand - Programming Skills
+BETA - Programming Skills
+BLISS - Programming Skills
+Blockly - Programming Skills
+BlooP - Programming Skills
+Boo - Programming Skills
+Boomerang - Programming Skills
+Bosque - Programming Skills
+Bourne shell - Programming Skills
+Bourne shell (including bash and ksh) - Programming Skills
+C - Programming Skills
+C-- - Programming Skills
+C++ - Programming Skills
+C* - Programming Skills
+C# - Programming Skills
+C Sharp - Programming Skills
+C Plus Plus - Programming Skills
+C/AL - Programming Skills
+Cache ObjectScript - Programming Skills
+C Shell (csh) - Programming Skills
+C Shell - Programming Skills
+Caml - Programming Skills
+Cayenne - Programming Skills
+CDuce - Programming Skills
+Cecil - Programming Skills
+Cesil - Programming Skills
+Céu - Programming Skills
+Ceylon - Programming Skills
+CFEngine - Programming Skills
+Cg - Programming Skills
+Ch - Programming Skills
+Chapel - Programming Skills
+Charm - Programming Skills
+CHILL - Programming Skills
+CHIP-8 - Programming Skills
+chomski - Programming Skills
+ChucK - Programming Skills
+Cilk - Programming Skills
+Citrine - Programming Skills
+CL (IBM) - Programming Skills
+CL - Programming Skills
+Claire - Programming Skills
+Clarion - Programming Skills
+Clean - Programming Skills
+Clipper - Programming Skills
+CLIPS - Programming Skills
+CLIST - Programming Skills
+Clojure - Programming Skills
+CLU - Programming Skills
+CMS-2 - Programming Skills
+COBOL - Programming Skills
+CobolScript - Programming Skills
+Cobol Scripting Language - Programming Skills
+Cobra - Programming Skills
+CoffeeScript - Programming Skills
+ColdFusion - Programming Skills
+COMAL - Programming Skills
+Combined Programming Language (CPL) - Programming Skills
+Combined Programming Language - Programming Skills
+CPL - Programming Skills
+COMIT - Programming Skills
+Common Intermediate Language (CIL) - Programming Skills
+Commom Intermediate Language - Programming Skills
+CIL - Programming Skills
+Common Lisp (CL) - Programming Skills
+CL - Programming Skills
+Common Lisp - Programming Skills
+COMPASS - Programming Skills
+Component Pascal - Programming Skills
+Constraint Handling Rules (CHR) - Programming Skills
+Constraint Handling Rules - Programming Skills
+CHR - Programming Skills
+COMTRAN - Programming Skills
+Cool - Programming Skills
+Coq - Programming Skills
+Coral 66 - Programming Skills
+CorVision - Programming Skills
+COWSEL - Programming Skills
+CPL - Programming Skills
+Cryptol - Programming Skills
+Crystal - Programming Skills
+Csound - Programming Skills
+CSS - Programming Skills
+Cuneiform - Programming Skills
+Curl - Programming Skills
+Curry - Programming Skills
+Cybil - Programming Skills
+Cyclone - Programming Skills
+Cypher Query Language - Programming Skills
+Cython - Programming Skills
+CEEMAC - Programming Skills
+CEEMAC - Programming Skills
+D - Programming Skills
+DAML - Programming Skills
+DASL (Datapoint's Advanced Systems Language) - Programming Skills
+Datapoint's Advanced Systems Language - Programming Skills
+DASL - Programming Skills
+Dart - Programming Skills
+Darwin - Programming Skills
+DataFlex - Programming Skills
+Datalog - Programming Skills
+DATATRIEVE - Programming Skills
+dBase - Programming Skills
+dc - Programming Skills
+DCL - Programming Skills
+DinkC - Programming Skills
+DIBOL - Programming Skills
+Dog - Programming Skills
+Draco - Programming Skills
+DRAKON - Programming Skills
+Dylan - Programming Skills
+DYNAMO - Programming Skills
+DAX - Programming Skills
+Data Analysis Expressions - Programming Skills
+E - Programming Skills
+Ease - Programming Skills
+Easy PL/I - Programming Skills
+EASYTRIEVE PLUS - Programming Skills
+eC - Programming Skills
+ECMAScript - Programming Skills
+Edinburgh IMP - Programming Skills
+EGL - Programming Skills
+Eiffel - Programming Skills
+ELAN - Programming Skills
+Elixir - Programming Skills
+Elm - Programming Skills
+Emacs Lisp - Programming Skills
+Emerald - Programming Skills
+Epigram - Programming Skills
+EPL - Programming Skills
+Easy Programming Language - Programming Skills
+EPL - Programming Skills
+Eltron Programming Language - Programming Skills
+Erlang - Programming Skills
+es - Programming Skills
+Escher - Programming Skills
+ESPOL - Programming Skills
+Esterel - Programming Skills
+Etoys - Programming Skills
+Euclid - Programming Skills
+Euler - Programming Skills
+Euphoria - Programming Skills
+EusLisp Robot Programming Language - Programming Skills
+CMS EXEC - Programming Skills
+EXEC - Programming Skills
+EXEC 2 - Programming Skills
+Executable UML - Programming Skills
+Ezhil - Programming Skills
+F - Programming Skills
+F# - Programming Skills
+F* - Programming Skills
+Factor - Programming Skills
+Fantom - Programming Skills
+FAUST - Programming Skills
+FFP - Programming Skills
+fish - Programming Skills
+Fjölnir - Programming Skills
+FL - Programming Skills
+Flavors - Programming Skills
+Flex - Programming Skills
+FlooP - Programming Skills
+FLOW-MATIC - Programming Skills
+FOCAL - Programming Skills
+FOCUS - Programming Skills
+FOIL - Programming Skills
+FORMAC - Programming Skills
+@Formula - Programming Skills
+Forth - Programming Skills
+Fortran - Programming Skills
+Fortress - Programming Skills
+FP - Programming Skills
+Franz Lisp - Programming Skills
+Futhark - Programming Skills
+F-Script - Programming Skills
+Game Maker Language - Programming Skills
+GameMonkey Script - Programming Skills
+GAMS - Programming Skills
+GAP - Programming Skills
+G-code - Programming Skills
+GDScript - Programming Skills
+Genie - Programming Skills
+GDL - Programming Skills
+GEORGE - Programming Skills
+GIT - Programming Skills
+GLSL - Programming Skills
+GNU E - Programming Skills
+GNU Guile - Programming Skills
+Go - Programming Skills
+Go! - Programming Skills
+GOAL - Programming Skills
+Gödel - Programming Skills
+Golo - Programming Skills
+GOM - Programming Skills
+Good Old Mad - Programming Skills
+Google Apps Script - Programming Skills
+Gosu - Programming Skills
+GOTRAN - Programming Skills
+GPSS - Programming Skills
+GraphTalk - Programming Skills
+GRASS - Programming Skills
+Grasshopper - Programming Skills
+Groovy - Programming Skills
+Hack - Programming Skills
+HAGGIS - Programming Skills
+HAL/S - Programming Skills
+Halide - Programming Skills
+Hamilton C shell - Programming Skills
+Harbour - Programming Skills
+Hartmann pipelines - Programming Skills
+Haskell - Programming Skills
+Haxe - Programming Skills
+Hermes - Programming Skills
+High Level Assembly - Programming Skills
+HLSL - Programming Skills
+Hollywood - Programming Skills
+HolyC - Programming Skills
+Hop - Programming Skills
+Hopscotch - Programming Skills
+Hope - Programming Skills
+Hugo - Programming Skills
+Hume - Programming Skills
+HyperTalk - Programming Skills
+Io - Programming Skills
+Icon - Programming Skills
+IBM Basic assembly language - Programming Skills
+IBM HAScript - Programming Skills
+IBM Informix-4GL - Programming Skills
+IBM RPG - Programming Skills
+IDL - Programming Skills
+Idris - Programming Skills
+Inform - Programming Skills
+J - Programming Skills
+J# - Programming Skills
+J++ - Programming Skills
+JADE - Programming Skills
+JAL - Programming Skills
+Janus (concurrent constraint programming language) - Programming Skills
+Janus - Programming Skills
+Concurrent Constraint Programming Language  - Programming Skills
+Time Reversible Computing Programming Language - Programming Skills
+Janus (time-reversible computing programming language) - Programming Skills
+JASS - Programming Skills
+Java - Programming Skills
+JavaFX Script - Programming Skills
+JavaScript(Scripting language) - Programming Skills
+Java Script - Programming Skills
+JavaScript - Programming Skills
+Jess (programming language) - Programming Skills
+Jess - Programming Skills
+JCL - Programming Skills
+JEAN - Programming Skills
+Join Java - Programming Skills
+JOSS - Programming Skills
+Joule - Programming Skills
+JOVIAL - Programming Skills
+Joy - Programming Skills
+JQuery - Programming Skills
+JScript - Programming Skills
+JScript .NET - Programming Skills
+Julia - Programming Skills
+Jython - Programming Skills
+K - Programming Skills
+Kaleidoscope - Programming Skills
+Karel - Programming Skills
+KEE - Programming Skills
+Kixtart - Programming Skills
+Klerer-May System - Programming Skills
+KIF - Programming Skills
+Kojo - Programming Skills
+Kotlin - Programming Skills
+KRC - Programming Skills
+KRL - Programming Skills
+KRL (KUKA Robot Language) - Programming Skills
+Kuka Robot Language - Programming Skills
+Kuka - Programming Skills
+KRYPTON - Programming Skills
+Korn shell (ksh) - Programming Skills
+ksh - Programming Skills
+Kodu - Programming Skills
+Kv - Programming Skills
+LabVIEW - Programming Skills
+Ladder - Programming Skills
+LANSA - Programming Skills
+Lasso - Programming Skills
+Lava - Programming Skills
+LC-3 - Programming Skills
+Legoscript - Programming Skills
+LIL - Programming Skills
+LilyPond - Programming Skills
+Limbo - Programming Skills
+Limnor - Programming Skills
+LINC - Programming Skills
+Lingo - Programming Skills
+LINQ - Programming Skills
+LIS - Programming Skills
+LISA - Programming Skills
+Language H - Programming Skills
+Lisp - Programming Skills
+Lite-C - Programming Skills
+Lithe - Programming Skills
+Little b - Programming Skills
+LLL - Programming Skills
+Logo - Programming Skills
+Logtalk - Programming Skills
+LotusScript - Programming Skills
+LPC - Programming Skills
+LSE - Programming Skills
+LSL - Programming Skills
+LiveCode - Programming Skills
+LiveScript - Programming Skills
+Lua - Programming Skills
+Lucid - Programming Skills
+Lustre - Programming Skills
+LYaPAS - Programming Skills
+Lynx - Programming Skills
+M2001 - Programming Skills
+M4 - Programming Skills
+M# - Programming Skills
+Machine code - Programming Skills
+MAD (Michigan Algorithm Decoder) - Programming Skills
+MAD - Programming Skills
+Michigan Algorithm Decoder - Programming Skills
+MAD/I - Programming Skills
+Magik - Programming Skills
+Magma - Programming Skills
+Máni - Programming Skills
+Maple - Programming Skills
+MAPPER (now part of BIS) - Programming Skills
+Mapper - Programming Skills
+BIS - Programming Skills
+MARK-IV (now VISION:BUILDER) - Programming Skills
+Vision Builder - Programming Skills
+Vision:Builder - Programming Skills
+Mark-IV - Programming Skills
+Mark4 - Programming Skills
+Mark 4 - Programming Skills
+Mary - Programming Skills
+MATLAB - Programming Skills
+MASM Microsoft Assembly x86 - Programming Skills
+Microsoft Assembly x86 - Programming Skills
+Microsoft Assembly - Programming Skills
+Mash - Programming Skills
+MATH-MATIC - Programming Skills
+Maude system - Programming Skills
+Maxima - Programming Skills
+Macsyma - Programming Skills
+Max (Max Msp – Graphical Programming Environment) - Programming Skills
+Max - Programming Skills
+Max Msp - Programming Skills
+MaxScript internal language 3D Studio Max - Programming Skills
+MaxScript - Programming Skills
+Max Script - Programming Skills
+Maya (MEL) - Programming Skills
+Maya - Programming Skills
+MEL - Programming Skills
+MDL - Programming Skills
+Mercury - Programming Skills
+Mesa - Programming Skills
+Metafont - Programming Skills
+MHEG-5 (Interactive TV programming language) - Programming Skills
+MHEG-5 - Programming Skills
+MHEG5 - Programming Skills
+Interactive TV Programming Language - Programming Skills
+Microcode - Programming Skills
+MicroScript - Programming Skills
+MIIS - Programming Skills
+Milk (programming language) - Programming Skills
+MIMIC - Programming Skills
+Mirah - Programming Skills
+Miranda - Programming Skills
+MIVA Script - Programming Skills
+ML - Programming Skills
+Model 204 - Programming Skills
+Modelica - Programming Skills
+Modula - Programming Skills
+Modula-2 - Programming Skills
+Modula-3 - Programming Skills
+Mohol - Programming Skills
+MOO - Programming Skills
+Mortran - Programming Skills
+Mouse - Programming Skills
+MPD - Programming Skills
+Mathcad - Programming Skills
+MSL - Programming Skills
+MUMPS - Programming Skills
+MuPAD - Programming Skills
+Mutan - Programming Skills
+Mystic Programming Language (MPL) - Programming Skills
+MPL - Programming Skills
+Mystic Programming Language - Programming Skills
+NASM - Programming Skills
+Napier88 - Programming Skills
+Neko - Programming Skills
+Nemerle - Programming Skills
+NESL - Programming Skills
+Net.Data - Programming Skills
+NetLogo - Programming Skills
+NetRexx - Programming Skills
+NewLISP - Programming Skills
+NEWP - Programming Skills
+Newspeak - Programming Skills
+NewtonScript - Programming Skills
+Nial - Programming Skills
+Nice - Programming Skills
+Nickle (NITIN) - Programming Skills
+Nitin - Programming Skills
+Nickle - Programming Skills
+Nim - Programming Skills
+NPL - Programming Skills
+Not eXactly C (NXC) - Programming Skills
+NXC - Programming Skills
+Not Quite C (NQC) - Programming Skills
+NQC - Programming Skills
+NSIS - Programming Skills
+Nu - Programming Skills
+NWScript - Programming Skills
+NXT-G - Programming Skills
+o:XML - Programming Skills
+Oak - Programming Skills
+Oberon - Programming Skills
+OBJ2 - Programming Skills
+Object Lisp - Programming Skills
+ObjectLOGO - Programming Skills
+Object REXX - Programming Skills
+Object Pascal - Programming Skills
+Objective-C - Programming Skills
+Objective-J - Programming Skills
+Obliq - Programming Skills
+OCaml - Programming Skills
+occam - Programming Skills
+occam-π - Programming Skills
+Octave - Programming Skills
+OmniMark - Programming Skills
+Opa - Programming Skills
+Opal - Programming Skills
+OpenCL - Programming Skills
+OpenEdge ABL - Programming Skills
+OPL - Programming Skills
+OpenVera - Programming Skills
+OPS5 - Programming Skills
+OptimJ - Programming Skills
+Orc - Programming Skills
+ORCA/Modula-2 - Programming Skills
+Oriel - Programming Skills
+Orwell - Programming Skills
+Oxygene - Programming Skills
+Oz - Programming Skills
+P - Programming Skills
+P4 - Programming Skills
+P′′ - Programming Skills
+ParaSail (programming language) - Programming Skills
+ParaSail - Programming Skills
+PARI/GP - Programming Skills
+Pascal - Programming Skills
+Pascal Script - Programming Skills
+PCASTL - Programming Skills
+PCF - Programming Skills
+PEARL - Programming Skills
+PeopleCode - Programming Skills
+Perl - Programming Skills
+PDL - Programming Skills
+Pharo - Programming Skills
+PHP - Programming Skills
+Pico - Programming Skills
+Picolisp - Programming Skills
+Pict - Programming Skills
+Pig (programming tool) - Programming Skills
+Pike - Programming Skills
+PILOT - Programming Skills
+Pipelines - Programming Skills
+Pizza - Programming Skills
+PL-11 - Programming Skills
+PL/0 - Programming Skills
+PL/B - Programming Skills
+PL/C - Programming Skills
+PL/I - Programming Skills
+PL/M - Programming Skills
+PL/P - Programming Skills
+PL/SQL - Programming Skills
+PL360 - Programming Skills
+PLANC - Programming Skills
+Plankalkül - Programming Skills
+Planner - Programming Skills
+PLEX - Programming Skills
+PLEXIL - Programming Skills
+Plus - Programming Skills
+POP-11 - Programming Skills
+POP-2 - Programming Skills
+PostScript - Programming Skills
+PortablE - Programming Skills
+POV-Ray SDL - Programming Skills
+Powerhouse - Programming Skills
+PowerBuilder  - Programming Skills
+PowerShell - Programming Skills
+PPL - Programming Skills
+Processing - Programming Skills
+Processing.js - Programming Skills
+Prograph - Programming Skills
+PROIV - Programming Skills
+Prolog - Programming Skills
+PROMAL - Programming Skills
+Promela - Programming Skills
+PROSE modeling language - Programming Skills
+PROTEL - Programming Skills
+ProvideX - Programming Skills
+Pro*C - Programming Skills
+Pure - Programming Skills
+Pure Data - Programming Skills
+PureScript - Programming Skills
+Python - Programming Skills
+Assessment - Troubleshooting
+system knowledge - Troubleshooting
+analytical skills - Troubleshooting
+testing - Troubleshooting
+calm mindset - Troubleshooting
+problem solving - Troubleshooting
+logic - Troubleshooting
+critical thinking skills - Troubleshooting
+collaboration - Troubleshooting
+communication - Troubleshooting
+Analysis - Planning
+conceptual skills - Planning
+brainstorming - Planning
+decision making - Planning
+forecasting - Planning
+logistics - Planning
+problem solving skills - Planning
+cost assessment - Planning
+requirements gathering - Planning
+Task management - Project Management Skills
+prioritization - Project Management Skills
+delegation - Project Management Skills
+task separation - Project Management Skills
+scheduling - Project Management Skills
+risk management - Project Management Skills
+Scrum - Project Management Skills
+Shooting - Video Creation
+framing - Video Creation
+writing - Video Creation
+editing - Video Creation
+compressing - Video Creation
+uploading - Video Creation
+creating engagement - Video Creation
+Public speaking - Presenting
+PowerPoint - Presenting
+Keynote - Presenting
